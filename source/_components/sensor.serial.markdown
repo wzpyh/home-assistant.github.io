@@ -31,7 +31,7 @@ sensor:
 ```
 
 {% configuration %}
-  port:
+  serial_port:
     description: Local serial port where the sensor is connected and access is granted.
     required: true
     type: string
